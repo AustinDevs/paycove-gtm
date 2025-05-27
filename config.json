@@ -29,7 +29,7 @@
         "Send 25 personalized emails per week (50 total)",
         "Send 10 LinkedIn connection requests daily",
         "Follow up with all email responses within 24 hours",
-        "Book and conduct 3-4 discovery calls"
+        "Book and conduct 1-3 discovery calls"
       ],
       "kpis": [
         { "number": "50", "label": "Qualified Prospects" },
