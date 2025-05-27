@@ -1,0 +1,144 @@
+{
+  "title": "Paycove Franchise Market Strategy",
+  "subtitle": "Part-Time Implementation Checklist & Flowchart (20 hours/week)",
+  "months": [
+    {
+      "id": "m1",
+      "number": 1,
+      "title": "Foundation & Setup",
+      "subtitle": "Build database and launch initial outreach",
+      "flowSteps": [
+        {
+          "time": "Week 1-2",
+          "title": "Database & Setup",
+          "description": "Research 50 franchise systems, set up HubSpot, create email templates"
+        },
+        {
+          "time": "Week 3-4",
+          "title": "Launch Outreach",
+          "description": "Send personalized emails, LinkedIn connections, book discovery calls"
+        }
+      ],
+      "checklist": [
+        "Research and compile 50 franchise systems from IFA directory",
+        "Identify key contacts: CFOs, Controllers, VP Finance for each system",
+        "Set up HubSpot with franchise properties (locations, revenue, billing system)",
+        "Create email template addressing franchise billing pain points",
+        "Prepare 5-minute demo script focusing on royalty automation",
+        "Set up basic email sequences in HubSpot (3 follow-ups)",
+        "Send 25 personalized emails per week (50 total)",
+        "Send 10 LinkedIn connection requests daily",
+        "Follow up with all email responses within 24 hours",
+        "Book and conduct 3-4 discovery calls"
+      ],
+      "kpis": [
+        { "number": "50", "label": "Qualified Prospects" },
+        { "number": "50", "label": "Outreach Attempts" },
+        { "number": "4-5", "label": "Email Responses" },
+        { "number": "1-3", "label": "Discovery Calls" }
+      ]
+    },
+    {
+      "id": "m3",
+      "number": 3,
+      "title": "Scale & Validate",
+      "subtitle": "Generate demos and build relationships",
+      "flowSteps": [
+        {
+          "time": "15 hrs/week",
+          "title": "Ongoing Outreach",
+          "description": "Expand to 150 prospects, 20 emails weekly, maintain LinkedIn activity"
+        },
+        {
+          "time": "5 hrs/week",
+          "title": "Demo Delivery",
+          "description": "Conduct 3-4 demos monthly, gather feedback, send proposals"
+        }
+      ],
+      "checklist": [
+        "Expand database to 150 qualified franchise prospects",
+        "Send 20 personalized emails weekly to new prospects",
+        "Maintain 10 daily LinkedIn connections",
+        "Conduct 10 product demos total (3-4 per month)",
+        "Record feedback and objections from each demo",
+        "Send follow-up proposals within 48 hours of demos",
+        "Attend 1 industry event (IFA or regional franchise show)",
+        "Pre-schedule 8-10 meetings at the event",
+        "Follow up with all event contacts within 48 hours",
+        "Identify and qualify 3 pilot opportunities",
+        "Sign 1 pilot agreement with implementation timeline"
+      ],
+      "kpis": [
+        { "number": "150", "label": "Prospects in Database" },
+        { "number": "7", "label": "Demos Delivered" },
+        { "number": "3", "label": "Pilot Opportunities" },
+        { "number": "1", "label": "Pilot Signed" }
+      ]
+    },
+    {
+      "id": "m6",
+      "number": 6,
+      "title": "Convert & Expand",
+      "subtitle": "Convert pilots to paying customers",
+      "flowSteps": [
+        {
+          "time": "8 hrs/week",
+          "title": "Pilot Management",
+          "description": "Weekly check-ins, document ROI, gather testimonials"
+        },
+        {
+          "time": "10 hrs/week",
+          "title": "Pipeline Growth",
+          "description": "Maintain 300+ prospects, focus on warm referrals"
+        },
+        {
+          "time": "2 hrs/week",
+          "title": "Conversion",
+          "description": "Present ROI, negotiate contracts, close deals"
+        }
+      ],
+      "checklist": [
+        "Expand database to 300+ qualified prospects",
+        "Conduct weekly 30-minute check-ins with all pilot customers",
+        "Document time and cost savings for each pilot customer",
+        "Address pilot implementation issues within 24 hours",
+        "Gather testimonials and case study content from successful pilots",
+        "Send 15 emails weekly focusing on warm referrals",
+        "Present ROI findings to pilot customers",
+        "Propose commercial agreements with pilot customers",
+        "Negotiate pricing and contract terms",
+        "Convert 2-3 pilots to paying customers",
+        "Ask satisfied customers for referrals and introductions",
+        "Maintain active pipeline of 20+ opportunities"
+      ],
+      "kpis": [
+        { "number": "300+", "label": "Prospects in Pipeline" },
+        { "number": "5", "label": "Active Pilots" },
+        { "number": "2-3", "label": "Paying Customers" }
+      ]
+    }
+  ],
+  "tools": [
+    {
+      "name": "LinkedIn Sales Navigator",
+      "cost": "$80/month",
+      "description": "Advanced prospect search and outreach"
+    },
+    {
+      "name": "Apollo",
+      "cost": "$100/month",
+      "description": "Contact data and email verification"
+    },
+    {
+      "name": "Loom",
+      "cost": "$24/month",
+      "description": "Personalized video messages"
+    }
+  ],
+  "timeAllocation": [
+    { "category": "Prospecting", "hours": 8 },
+    { "category": "Outreach", "hours": 6 },
+    { "category": "Demos/Meetings", "hours": 4 },
+    { "category": "Follow-up/Admin", "hours": 2 }
+  ]
+}
